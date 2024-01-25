@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IR8p84tTKYDcLcmCQwOoW6MVdrooCrlaB/8IA2MFqn/bP5E5nMlWgtTPV0mIkRIDvnkFXeNPPmBoJmDVaCcUEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simra\\OneDrive\\Desktop\\Ws\\Web Scraper 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simra\\.nuget\\packages\\htmlagilitypack\\1.11.57\\htmlagilitypack.1.11.57.nupkg.sha512"
+  ],
+  "logs": []
+}
